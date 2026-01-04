@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #b10987;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#games {
+    background-color: #d81b1b;
+}
+
+#stories {
+    background-color: #1552ad;
+}
+
+#contact {
+    background-color: #b41256;
+}
+
+section div {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    margin: 15px auto;
+    width: 250px;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+section div h3 {
+    margin-bottom: 10px;
+}
+
+#contact div h3 {
+    margin-bottom: 8px;
+}

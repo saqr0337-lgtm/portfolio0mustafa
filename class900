@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FunKids</title>
+    <link rel="stylesheet" href="portfolio hw.css">
+</head>
+<body>
+
+<section id="games">
+    <div>
+        <h3>Color Match</h3>
+        <p>Match colors and win</p>
+    </div>
+
+    <div>
+        <h3>Puzzle Fun</h3>
+        <p>Solve puzzles easily</p>
+    </div>
+
+    <div>
+        <h3>Racing Kids</h3>
+        <p>Fast cars fun race</p>
+    </div>
+</section>
+
+<section id="stories">
+    <div>
+        <h3>Stories Section</h3>
+    </div>
+</section>
+
+<section id="contact">
+    <div>
+        <h3>Phone: 01055012698</h3>
+        <h3>WhatsApp: 01055012698</h3>
+        <h3>Email: mustafa Mahmoud</h3>
+    </div>
+</section>
+
+</body>
+</html>
